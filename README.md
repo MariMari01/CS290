@@ -7,4 +7,5 @@
      Despite being designed mostly as a phone app I think the website is pretty nice, the player always being at the bottom makes pausing/unpausing and shifting through songs easy as you navigate through the rest of the           website.
   4. Wikipedia: https://www.wikipedia.org/
      I find Wikipedia very impressive for the sheer amount of information and articles within it, the somewhat bare-bones design of it also helps to avoid overwhelming the user with too much at once. I also really                appreciate that you can change the general appearance of the website from their settings menu if you don't like the default. 
-  5. 
+  5. Github: (already on the website!)
+     I find github very useful and easy to navigate, I like how there is a nav bar at the top that has the places you'd be going to the most but also a hamburger menu to display other options you may need maybe less often.
