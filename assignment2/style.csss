@@ -1,26 +1,54 @@
 body
 {
-    background-color: #a87a46;
+  background-color: #a87a46;
+}
+
+p
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  font-weight: 600;
+  text-align: left;
+}
+
+a
+{
+  text-decoration: none;
+}
+a:link
+{
+  color: rgb(84, 14, 14);
+}
+a:visited
+{
+  color: rgb(84, 14, 14);
+}
+a:hover
+{
+  color: orangered;
+}
+a:active
+{
+  color: yellow;
 }
 
 .NavBar
 {
-    width: 100%;
-    border: solid #6a4b30;
-    table-layout: fixed;
+  width: 100%;
+  border: solid #6a4b30;
+  table-layout: fixed;
 }
 
 #NavBarButton
 {
-    background-color: #e9b477;
-    color: #4e3212;
-    font-size: medium;
-
+  background-color: #e9b477;
+  color: #4e3212;
+  font-size: large;
 }
 
 #Title
 {
-    color: #4e3212;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: xxx-large;
+  color: #4e3212;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: xxx-large;
 }
