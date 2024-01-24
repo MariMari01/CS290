@@ -35,6 +35,7 @@ a:active
 .NavBar
 {
   width: 100%;
+  padding: 1%;
   border: solid #6a4b30;
   table-layout: fixed;
 }
