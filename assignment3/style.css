@@ -31,9 +31,13 @@ a:active
 {
   color: yellow;
 }
-
+#HamburgerMenu
+{
+  visibility: hidden;
+}
 .NavBar
 {
+  visibility: visible;
   width: 99%;
   border: solid #6a4b30;
   display:table;
@@ -53,6 +57,16 @@ a:active
   }
 }
 
+#HamburgerMenu
+{
+  button
+  {
+  visibility: hidden;
+  }
+}
+
+
+
 @media only screen and (max-width:600px) 
 {
   .NavBar
@@ -67,6 +81,7 @@ a:active
 
   #HamburgerMenu
   {
+    visibility: visible;
     width: 50px;
     height: 50px;
     display: block;
@@ -84,6 +99,8 @@ a:active
     );
   }
 }
+
+
 
 #Title
 {
